@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ea7b25ac833222107e61e480ceaad33a" label="Transactions" max_length="40" name="x_1798559_transac_transactions" type="collection">
+        <element label="Transaction ID" max_length="40" name="transaction_id" type="integer"/>
+    </element>
+</database>
